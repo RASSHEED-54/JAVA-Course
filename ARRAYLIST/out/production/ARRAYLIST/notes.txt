@@ -1,0 +1,15 @@
+ARRAYLIST
+
+     Syntax:
+       ArrayList<Integer> list = new ArrayList<>();
+     Dynamic sized
+     It never gets fill
+
+     IN-BUILT FUNCTION
+     -----------------
+       list.add(ele) -> Adds the element at last
+       list.set(index, ele) -> Set the value that index
+       list.remove(index) -> Remove the value from the index
+       list.get(index) -> Gets the value from that index
+
+
